@@ -1,6 +1,6 @@
-# ShoeApp
+# BestForYou
 ## Mục đích:
-- Trang web bán giày của chúng em được tạo ra với mục đích chính là cung cấp một nơi để mọi người có thể tìm kiếm, mua và chia sẻ đánh giá về các loại giày chất lượng. Đồng thời, trang web cũng là nền tảng cho phép người dùng kết nối và chia sẻ thông tin về các xu hướng giày dép mới nhất.
+- Trang web bán hàng của chúng em được tạo ra với mục đích chính là cung cấp một nơi để mọi người có thể tìm kiếm, mua và chia sẻ đánh giá về các loại sản phẩm chất lượng. Đồng thời, trang web cũng là nền tảng cho phép người dùng kết nối và chia sẻ thông tin về các xu hướng mua sắm mới nhất.
 ## Người sử dụng:
 - Admin
 - User (Khách hàng)
@@ -19,10 +19,10 @@ Mô tả: Hệ thống sẽ gửi email xác nhận để thay đổi mật kh�
 Mục đích: Cho phép người dùng cập nhật và quản lý thông tin cá nhân của họ.
 Mô tả: Người dùng có thể thay đổi thông tin như tên, email hoặc mật khẩu. Hệ thống sẽ xác nhận và lưu các thay đổi.
 #### 5. Duyệt sản phẩm:
-Mục đích: Cho phép người dùng tìm kiếm và duyệt các sản phẩm giày.
+Mục đích: Cho phép người dùng tìm kiếm và duyệt các sản phẩm.
 Mô tả: Người dùng có thể tìm kiếm giày theo loại, kích cỡ, màu sắc, và giá cả. Sản phẩm sẽ được hiển thị cùng với hình ảnh, mô tả, và giá cả.
 #### 6. Xem chi tiết sản phẩm:
-Mục đích: Cung cấp thông tin chi tiết về sản phẩm giày.
+Mục đích: Cung cấp thông tin chi tiết về sản phẩm.
 Mô tả: Khi người dùng nhấp vào một sản phẩm, họ sẽ được chuyển đến trang chi tiết sản phẩm, nơi cung cấp thông tin chi tiết như chất liệu, kích cỡ, đánh giá từ người dùng khác.
 #### 7. Thêm vào giỏ hàng:
 Mục đích: Cho phép người dùng thêm sản phẩm vào giỏ hàng.
@@ -44,7 +44,7 @@ Mục đích: Gửi thông báo cho người dùng về các chương trình khu
 Mô tả: Hệ thống sẽ gửi thông báo qua email hoặc trong ứng dụng khi có các thông tin quan trọng.
 ### Quản trị viên:
 #### 1. Quản lý sản phẩm:
-Mục đích: Cho phép quản trị viên thêm, sửa, xóa và quản lý các sản phẩm giày.
+Mục đích: Cho phép quản trị viên thêm, sửa, xóa và quản lý các sản phẩm.
 Mô tả: Quản trị viên có thể cập nhật thông tin sản phẩm, thêm sản phẩm mới và xóa sản phẩm khỏi hệ thống.
 #### 2. Quản lý đơn hàng:
 Mục đích: Quản lý và theo dõi tình trạng đơn hàng của người dùng.
